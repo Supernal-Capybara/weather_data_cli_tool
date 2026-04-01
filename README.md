@@ -36,3 +36,4 @@ Skills Demonstrated
 Upcoming features
 * Right now the program selects the most relevant result from the API (e.g., it will choose London, UK, over London, Ontario). A future version could present multiple matching cities and allow the user to select the correct one.
 * Option to display temperature in Celsius or Fahrenheit.
+* Convert weather codes into human-readable descriptions (e.g., clear, cloudy, rain)
